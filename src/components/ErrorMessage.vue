@@ -1,7 +1,7 @@
 <template>
   <div class="error-message">
-    <h3>404</h3>
-    <span>data not fount</span>
+    <h3>Oooops</h3>
+    <span>Failed to load the response data</span>
   </div>
 </template>
 

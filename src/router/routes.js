@@ -1,12 +1,6 @@
 import { Categories} from '../pages/Categories.vue'
 const routes = [
-  // {
-  //   path: '/',
-  //   component: () => import('layouts/MainLayout.vue'),
-  //   children: [
-  //     { path: '', component: () => import('pages/IndexPage.vue') }
-  //   ]
-  // },
+
   {
     path: '/',
     component: () => import('pages/Categories.vue'),
